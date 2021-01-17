@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\AMIR\Projects\CNumeReader\CNumeReader\Source.cpp(1,1): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+D:\AMIR\Projects\CNumeReader\CNumeReader\Source.cpp : message : see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+D:\AMIR\Projects\CNumeReader\CNumeReader\Source.cpp(16,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\AMIR\Projects\CNumeReader\CNumeReader\Source.cpp(32,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\AMIR\Projects\CNumeReader\CNumeReader\Source.cpp(45,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\AMIR\Projects\CNumeReader\CNumeReader\Source.cpp(51,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\AMIR\Projects\CNumeReader\CNumeReader\Source.cpp(64,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CNumeReader.vcxproj -> D:\AMIR\Projects\CNumeReader\Debug\CNumeReader.exe
